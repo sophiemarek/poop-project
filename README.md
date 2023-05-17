@@ -53,8 +53,11 @@ qiime feature-classifier classify-sklearn --i-classifier /tmp/gen711_project_dat
 qiime taxa barplot --i-table /home/users/ged1022/feature_table1.qza --m-metadata-file sample-metadata.tsv --i-taxonomy /home/users/ged1022/FMT-taxonomy.qza --o-visualization /home/users/ged1022/barplot-1.qzv
 qiime taxa barplot --i-table /home/users/ged1022/feature_table2.qza --m-metadata-file sample-metadata.tsv --i-taxonomy /home/users/ged1022/FMT-taxonomy.qza --o-visualization /home/users/ged1022/barplot-2.qzv
 
-## Results
+## Results Figures
 <img width="1686" alt="Screen Shot 2023-05-16 at 1 19 17 PM" src="https://github.com/sophiemarek/poop-project/assets/130415363/7bba0d17-1404-4f38-8d7d-8bb88c9894af">
 Figure 1- Plot generated from Qiime using the FASTA sequence. This graph shows the amount of different bacteria in each of the samples gut microbiome 
 <img width="1299" alt="Screen Shot 2023-05-17 at 1 01 39 PM" src="https://github.com/sophiemarek/poop-project/assets/130415363/2ad2fbe9-23ec-4918-8717-403ceed9a6ce">
-Figure 2- Plot generated from Qiime using FASTA sequence. This graph shows the bacteria found in the gut microbiome of the control group compared to the treatment group
+Figure 2- Plot generated from Qiime using FASTA sequence. This graph shows the bacteria found in the gut microbiome of the control group in comparison to the treatment group
+
+## Results Interpretation 
+As seen in Figure 2 the treatment had more firmicutes present in their gut microbiome than the control group did. Firmicutes are important for producing endospores which help ensure that bacteria is able to survive in harsh environments such as one with a lack of nutrients and are able to promote transmission. The treatment group would need more firmicutes because of the harsher gut environment. At the end of this study there was a reported 80% decrease in GI symptoms such as diarrhea, indigestion,contripation and abdominal pain. It was also reported that behavioral Autism Spectrum Disorder symptoms increased and remained improved after the treatment had ended.
