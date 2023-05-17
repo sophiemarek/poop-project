@@ -10,12 +10,16 @@ There is a link to gastrointestinal issues and autism spectrum disorder. The exa
 
 This specific study was an open-label clinical trial where both the patients and providers were aware of the treatment being administered. Some patients were either treated with microbiota treatment therapy or not and their gut microbiota was analyzed.
 
+(Kang, DW., Adams, J.B., Gregory, A.C. et al. Microbiota Transfer Therapy alters gut ecosystem and improves gastrointestinal and autism symptoms: an open-label study. Microbiome 5, 10 (2017). )
+
 ## Methods
 Children under the age of 18 with autism and gastrointestinal disorders were treated with fecal microbiota transplant to try and reduce the severity of their behavioral and gastrointestinal symptoms. 
 
 Changes in their microbiome were tracked, as well as metrics that scale childhood autism, such as Parent Global Impressions-III (PGI-III) & Childhood Autism Rating Scale (CARS). Their gastrointestinal symptoms were tracked using GSRS for eighteen weeks.
 
 Fecal swabs were collected by swabbing used toilet paper and occasionally testing the entire stool. Control groups were set up in twenty people to track normal temporal gut microbiome variation. Eighteen people received treatment. 
+
+(“Fecal Transplant.” Fecal Transplant | Johns Hopkins Medicine, 4 Apr. 2022,)
 
 ## This command copies fasta to home directory and changes commands
 cp /tmp/gen711_project_data/fastp-single.sh ~/fastp-single.sh
@@ -66,7 +70,11 @@ Figure 1- Plot generated from Qiime using the FASTA sequence. This graph shows t
 Figure 2- Plot generated from Qiime using FASTA sequence. This graph shows the bacteria found in the gut microbiome of the control group in comparison to the treatment group
 
 ## Results Interpretation 
-As seen in Figure 2 the treatment had more firmicutes present in their gut microbiome than the control group did. Firmicutes are important for producing endospores which help ensure that bacteria is able to survive in harsh environments such as one with a lack of nutrients and are able to promote transmission. The treatment group would need more firmicutes because of the harsher gut environment. At the end of this study there was a reported 80% decrease in GI symptoms such as diarrhea, indigestion,contripation and abdominal pain. It was also reported that behavioral Autism Spectrum Disorder symptoms increased and remained improved after the treatment had ended.
+The most common phyla in the gut microbiome are Firmicutes, Bacteroidetes, Actinobacteria and Proteobacteria.These phyla make up over 90% of the microbiota found in the human gut. As seen in Figure 1 the majority of the phyla found in the samples coincide with what was expected.
+
+As seen in Figure 2 the treatment had more firmicutes present in their gut microbiome than the control group did. Firmicutes are important for producing endospores which help ensure that bacteria is able to survive in harsh environments such as one with a lack of nutrients and are able to promote transmission. The treatment group would need more firmicutes because of the harsher gut environment and that is seen when comparing the two groups. 
+
+At the end of this study there was a reported 80% decrease in GI symptoms such as diarrhea, indigestion,contripation and abdominal pain. It was also reported that behavioral Autism Spectrum Disorder symptoms increased and remained improved after the treatment had ended. 
 
 
 (Trevor O. Kirby, The gut microbiota as a therapeutic approach for obesity. Microbiome and Metabolome in Diagnosis, Therapy, and other Strategic Applications.(2019, February 15).)
