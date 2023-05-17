@@ -61,4 +61,6 @@ Figure 2- Plot generated from Qiime using FASTA sequence. This graph shows the b
 
 ## Results Interpretation 
 As seen in Figure 2 the treatment had more firmicutes present in their gut microbiome than the control group did. Firmicutes are important for producing endospores which help ensure that bacteria is able to survive in harsh environments such as one with a lack of nutrients and are able to promote transmission. The treatment group would need more firmicutes because of the harsher gut environment. At the end of this study there was a reported 80% decrease in GI symptoms such as diarrhea, indigestion,contripation and abdominal pain. It was also reported that behavioral Autism Spectrum Disorder symptoms increased and remained improved after the treatment had ended.
-Trevor O. Kirby, The gut microbiota as a therapeutic approach for obesity. Microbiome and Metabolome in Diagnosis, Therapy, and other Strategic Applications.(2019, February 15).
+
+
+(Trevor O. Kirby, The gut microbiota as a therapeutic approach for obesity. Microbiome and Metabolome in Diagnosis, Therapy, and other Strategic Applications.(2019, February 15).)
