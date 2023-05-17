@@ -52,3 +52,8 @@ qiime feature-classifier classify-sklearn --i-classifier /tmp/gen711_project_dat
 ## Visualize the taxonomic profiles of each sample using an interactive qiime taxa barplot
 qiime taxa barplot --i-table /home/users/ged1022/feature_table1.qza --m-metadata-file sample-metadata.tsv --i-taxonomy /home/users/ged1022/FMT-taxonomy.qza --o-visualization /home/users/ged1022/barplot-1.qzv
 qiime taxa barplot --i-table /home/users/ged1022/feature_table2.qza --m-metadata-file sample-metadata.tsv --i-taxonomy /home/users/ged1022/FMT-taxonomy.qza --o-visualization /home/users/ged1022/barplot-2.qzv
+
+## Results
+<img width="1686" alt="Screen Shot 2023-05-16 at 1 19 17 PM" src="https://github.com/sophiemarek/poop-project/assets/130415363/7bba0d17-1404-4f38-8d7d-8bb88c9894af">
+<img width="1299" alt="Screen Shot 2023-05-17 at 1 01 39 PM" src="https://github.com/sophiemarek/poop-project/assets/130415363/2ad2fbe9-23ec-4918-8717-403ceed9a6ce">
+
