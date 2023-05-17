@@ -3,6 +3,8 @@ Fecal Microbiota Transplant
 
 Sophie Marek, Grace Drew, Casey Baumann 
 
+## Background
+
 
 ## Methods
 Children under the age of 18 with autism and gastrointestinal disorders were treated with fecal microbiota transplant to try and reduce the severity of their behavioral and gastrointestinal symptoms. 
